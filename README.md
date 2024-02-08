@@ -1,5 +1,5 @@
 # Effluvia
-A bunch of things that aren't code
+A bunch of things that aren't code; plus a [wiki for various musings](https://github.com/QuantumTux/Effluvia/wiki)
 
 ## AnInterestingDNS.pdf
 This paper describes a DNS solution I created to meet a very specific need for the environment in which I worked at the time. Basically, it was what met the organization's needs for the application stack.
