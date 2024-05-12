@@ -2,7 +2,7 @@
 A bunch of things that aren't code; plus a [wiki for various musings](https://github.com/QuantumTux/Effluvia/wiki)
 
 ## AnInterestingDNS.pdf
-This paper describes a DNS solution I created to meet a very specific need for the environment in which I worked at the time.
+This paper describes a DNS solution I created to meet a very specific need in a multi-architecture build environment with a complex network arrangement.
 
 ## AndThenThereWasBOOTP.pdf
 Another paper about the multi-architecture environment. This time, I'm describing **BOOTP** and configuration of **dhcpd** in support of multi-architecture builds.
