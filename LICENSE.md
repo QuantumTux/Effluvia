@@ -3,3 +3,10 @@ These files are licensed under [Creative Commons CC BY-NC-ND](https://en.wikiped
 + Attribution Required - Files may be copied, distributed, or displayed only if the author (that's me) is given the credit
 + No Derivatives - The author (that's me) does not grant the right to create derivative works
 + No Commercial Use - None of these files, or their contents, may be sold; they may only be given to others freely
+
+# Artificial Intelligence / Large Language Model Training PROHIBITED
+Without limiting the exclusive rights of any author, contributor and/or authorized publisher of this creative work,
+the use of the publications contained in this repository to train artificial intelligence, of a "generative" type, or
+of any other type known or unknown at the time of publication, is expressly prohibited. The copyright holder also
+exercises their rights under Article 4(3) of the Digital Single Market Directive 2019/790 and expressly reserves
+this publication from the text and data mining exceptions.
