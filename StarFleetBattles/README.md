@@ -7,6 +7,9 @@ These rule proposals are **not** "official" ADB-approved rules.
 ## SFB-Rule-AntiPlasmaMines-By-DavidBank.pdf
 My idea of a different way to deal with plasma torpedoes. Yes, it's an "area of effect" system, and SVC doesn't like those. But it also balances that by not providing a guarantee to _immediately_ reduce warhead strength. It also affects the smaller plasmas (Types D, F and G) more than the larger ones.
 
+## SFB-Rule-SwallowRounds-By-DavidBank.pdf
+Another idea I had for a system to counter swarms of warp-seeking (Type VI) drones. Again, I think it strikes a good balance between possible effects and limiting factors. The name, _Swallow_, is actually lifted from the _BattleStar Galactica_ miniseries.
+
 # Scenarios
 The scenarios are **not** "official" ADB-approved scenarios.
 
