@@ -1,6 +1,13 @@
 # Star Fleet Battles
 This sub-directory contains files related to the venerable table-top wargame [Star Fleet Battles](https://en.wikipedia.org/wiki/Star_Fleet_Battles), which is still sold by [Star Fleet Games](http://www.starfleetgames.com/starfleetbattles.shtml).
 
+# Rules
+These rule proposals are **not** "official" ADB-approved rules.
+
+## SFB-Rule-AntiPlasmaMines-By-DavidBank.pdf
+My idea of a different way to deal with plasma torpedoes. Yes, it's an "area of effect" system, and SVC doesn't like those. But it also balances that by not providing a guarantee to _immediately_ reduce warhead strength. It also affects the smaller plasmas (Types D, F and G) more than the larger ones.
+
+# Scenarios
 The scenarios are **not** "official" ADB-approved scenarios.
 
 ## SFB-Scenario-AGameOfTractors-By-DavidBank.pdf
