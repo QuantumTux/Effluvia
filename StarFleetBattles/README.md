@@ -14,7 +14,7 @@ Another idea I had for a system to counter swarms of warp-seeking (Type VI) dron
 The scenarios are **not** "official" ADB-approved scenarios.
 
 ## SFB-Scenario-AGameOfTractors-By-DavidBank.pdf
-If you read the various SFB tactical wisdom (published in various _Captain's Log_ magazines, and add-ons such as the _Tactics Manual_), it's pointed out that tractor beams are frequently under-utilized systems. I decided to write an SFB training scenario that emphasized using tractors, and explicitly avoided being a combat scenario. If you're tired of two ships bashing each other, this is a welcome change of pace.
+If you read the various sources of SFB tactical wisdom (published in various _Captain's Log_ magazines, and add-ons such as the _Tactics Manual_), it's pointed out that tractor beams are frequently under-utilized systems. I decided to write an SFB training scenario that emphasized using tractors, and explicitly avoided being a combat scenario. If you're tired of two ships bashing each other, this is a welcome change of pace.
 
 ## SFB-Scenario-CosmicPinball-By-DavidBank.pdf
 What if your ship was a pinball, and the map was populated by "bumpers"? What would those "bumpers" do? How would it all work? This scenario is as much a framework as it is a complete, ready-to-play event. Again, it was designed as an alternative to the usual ship-on-ship combat scenario, and offers an innovative way to approach a multi-player free-for-all.
