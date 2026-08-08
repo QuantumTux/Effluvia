@@ -7,6 +7,24 @@ These rule proposals are **not** "official" ADB-approved rules.
 ## SFB-Rule-AntiPlasmaMines-By-DavidBank.pdf
 My idea of a different way to deal with plasma torpedoes. Yes, it's an "area of effect" system, and SVC doesn't like those. But it also balances that by not providing a guarantee to _immediately_ reduce warhead strength. Moreover, the larger plasmas (Types M, S and R) are affected to a lesser extent (in near-launch cases) that the smaller plasmas (Types D, F and G).
 
+## SFB-Rule-LowPowerTractor-By-DavidBank.pdf
+This rule proposal introduces an alternate mode of operation for tractor beams. It allows a beam with a maximum range of 1 to grab and hold objects smaller than Size Class 5, and to do so for half the normal power cost. It's an option mainly aimed at power-starved ships, much like Low-Powered Fire Control.
+
+## Skids
+<details>
+<summary>Skids were introduced in Module R8</summary>
+
+### SFB-Rule-MedicalSkid-By-DavidBank.pdf
+This skid enables a freighter to provide medical services and not just haul cargo.
+
+### SFB-Rule-PointDefenseSkid-By-DavidBank.pdf
+For freighter captains, calling the cops wasn't always an option. This skid adds defensive capability to help a ship fend off attacks.
+
+### SFB-Rule-RepairSkid-By-DavidBank.pdf
+Frontier planets and colony worlds often needed to repair ships that could not land on the planet. A Repair Skid let a freighter captain bring services to these places.
+
+</details>
+
 ## SFB-Rule-SwallowRounds-By-DavidBank.pdf
 Another idea I had for a system to counter swarms of warp-seeking (Type VI) drones. Again, I think it strikes a good balance between possible effects and limiting factors. The name, _Swallow_, is actually lifted from the _BattleStar Galactica_ miniseries.
 
