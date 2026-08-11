@@ -7,6 +7,9 @@ These rule proposals are **not** "official" ADB-approved rules.
 ## SFB-Rule-AndromedanSingularityGenerator-By-DavidBank.pdf
 If you've played SFB enough to explore the empires beyond the Feds, Klingons and Romulans, they you know about the Andromedans. They break **all**  the rules. Forget shields, they have Power Absorbers; don't shoot them, you'll just make them angry. And your transporters are cute, beaming six whole people at once; the Andros can beam _entire ships_. It's frightening to imagine what other technology they have, isn't it?
 
+## SFB-Rule-AndromedanSpatialDistortionCharge-By-DavidBank.pdf
+Those Andromedans are at it again. Seems they've gotten tired of playing hide-and-seek with that annoying Alpha Octant technology, the cloaking device. Let's see how those Romulans (and Orions) like it when one of these things goes off.
+
 ## SFB-Rule-AntiPlasmaMines-By-DavidBank.pdf
 My idea of a different way to deal with plasma torpedoes. Yes, it's an "area of effect" system, and SVC doesn't like those. But it also balances that by not providing a guarantee to _immediately_ reduce warhead strength. Moreover, the larger plasmas (Types M, S and R) are affected to a lesser extent (in near-launch cases) than the smaller plasmas (Types D, F and G).
 
