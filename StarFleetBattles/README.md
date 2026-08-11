@@ -5,7 +5,7 @@ This sub-directory contains files related to the venerable table-top wargame [St
 These rule proposals are **not** "official" ADB-approved rules.
 
 <details>
-<summary>If you've played SFB enough to explore the empires beyond the Feds, Klingons and Romulans, then you know about the Andromedans. They break **all**  the rules. Forget shields, they have Power Absorbers; don't shoot them, you'll just make them angry _**plus**_ give them more power to shoot back. And your transporters are sooooo cute, beaming six whole people at once! Yeah, well, the Andros can beam _entire ships_, like the one that just materialized directly behind you. It's frightening to imagine what other technology they have, isn't it?</summary>
+<summary>If you've played SFB enough to explore the empires beyond the Feds, Klingons and Romulans, then you know about the Andromedans. They break all the rules. Forget shields, they have Power Absorbers; don't shoot them, you'll just make them angry plus give them more power to shoot back. And your transporters are sooooo cute, beaming six whole people at once! Yeah, well, the Andros can beam _entire ships_, like the one that just materialized directly behind you. It's frightening to imagine what other technology they have, isn't it?</summary>
 
 ## SFB-Rule-AndromedanGravityMine-By-DavidBank.pdf
 FORTHCOMING
