@@ -4,11 +4,19 @@ This sub-directory contains files related to the venerable table-top wargame [St
 # Rules
 These rule proposals are **not** "official" ADB-approved rules.
 
+<details>
+<summary>If you've played SFB enough to explore the empires beyond the Feds, Klingons and Romulans, then you know about the Andromedans. They break **all**  the rules. Forget shields, they have Power Absorbers; don't shoot them, you'll just make them angry _**plus**_ give them more power to shoot back. And your transporters are sooooo cute, beaming six whole people at once! Yeah, well, the Andros can beam _entire ships_, like the one that just materialized directly behind you. It's frightening to imagine what other technology they have, isn't it?</summary>
+
+## SFB-Rule-AndromedanGravityMine-By-DavidBank.pdf
+FORTHCOMING
+
 ## SFB-Rule-AndromedanSingularityGenerator-By-DavidBank.pdf
-If you've played SFB enough to explore the empires beyond the Feds, Klingons and Romulans, they you know about the Andromedans. They break **all**  the rules. Forget shields, they have Power Absorbers; don't shoot them, you'll just make them angry. And your transporters are sooooo cute, beaming six whole people at once! Yeah, well, the Andros can beam _entire ships_, like the one that just materialized directly behind you. It's frightening to imagine what other technology they have, isn't it?
+Your massive Speed-32 drone wave is leading a squadron of fighters and a flotilla of PFs to wipe the floor with that Andromedan Dominator. Victory is a lock, right? But wait! What was that massive power spike from the Dominator? What are those insane sensor readings from the space between the drone wave and the fighters/PFs? Is that a black hole forming??!?!? 
 
 ## SFB-Rule-AndromedanSpatialDistortionCharge-By-DavidBank.pdf
-Those Andromedans are at it again. Seems they've gotten tired of playing hide-and-seek with that annoying Alpha Octant technology, the cloaking device. Let's see how those Romulans (and Orions) like it when one of these things goes off.
+Those Andromedans are at it again. Seems they've gotten tired of playing hide-and-seek with that annoying Alpha Octant technology, the cloaking device. Let's see how the Romulans (and Orions) like it when one of these things goes off.
+
+</details>
 
 ## SFB-Rule-AntiPlasmaMines-By-DavidBank.pdf
 My idea of a different way to deal with plasma torpedoes. Yes, it's an "area of effect" system, and SVC doesn't like those. But it also balances that by not providing a guarantee to _immediately_ reduce warhead strength. Moreover, the larger plasmas (Types M, S and R) are affected to a lesser extent (in near-launch cases) than the smaller plasmas (Types D, F and G).
