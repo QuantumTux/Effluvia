@@ -8,10 +8,10 @@ These rule proposals are **not** "official" ADB-approved rules.
 If you've played SFB enough to explore the empires beyond the Feds, Klingons and Romulans, they you know about the Andromedans. They break **all**  the rules. Forget shields, they have Power Absorbers; don't shoot them, you'll just make them angry. And your transporters are cute, beaming six whole people at once; the Andros can beam _entire ships_. It's frightening to imagine what other technology they have, isn't it?
 
 ## SFB-Rule-AntiPlasmaMines-By-DavidBank.pdf
-My idea of a different way to deal with plasma torpedoes. Yes, it's an "area of effect" system, and SVC doesn't like those. But it also balances that by not providing a guarantee to _immediately_ reduce warhead strength. Moreover, the larger plasmas (Types M, S and R) are affected to a lesser extent (in near-launch cases) that the smaller plasmas (Types D, F and G).
+My idea of a different way to deal with plasma torpedoes. Yes, it's an "area of effect" system, and SVC doesn't like those. But it also balances that by not providing a guarantee to _immediately_ reduce warhead strength. Moreover, the larger plasmas (Types M, S and R) are affected to a lesser extent (in near-launch cases) than the smaller plasmas (Types D, F and G).
 
 ## SFB-Rule-LowPowerTractor-By-DavidBank.pdf
-This rule proposal introduces an alternate mode of operation for tractor beams. It allows a beam with a maximum range of 1 to grab and hold objects smaller than Size Class 5, and to do so for half the normal power cost. It's an option mainly aimed at power-starved ships, much like Low-Powered Fire Control.
+This rule proposal introduces an alternate mode of operation for tractor beams. It allows a beam with a maximum range of 1 to grab and hold objects smaller than Size Class 5, and to do so for half the normal power cost. It's an option mainly aimed at power-starved ships, and is akin to Low-Powered Fire Control (less of a power drain for less functionality).
 
 ## Skids
 <details>
@@ -24,7 +24,7 @@ This skid enables a freighter to provide medical services and not just haul carg
 For freighter captains, calling the cops wasn't always an option. This skid adds defensive capability to help a ship fend off attacks.
 
 ### SFB-Rule-RepairSkid-By-DavidBank.pdf
-Frontier planets and colony worlds often needed to repair ships that could not land on the planet. A Repair Skid let a freighter captain bring services to these places.
+Frontier planets and less-developed colony worlds often needed to repair ships that could not land on the planet. A Repair Skid let a freighter captain bring services to these places.
 
 </details>
 
