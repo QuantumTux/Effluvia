@@ -6,7 +6,9 @@ These rule proposals are **not** "official" ADB-approved rules.
 
 ## Andromedan Systems
 <details>
-<summary>If you've played SFB enough to explore the empires beyond the Feds, Klingons and Romulans, then you know about the Andromedans. They break all the rules. Forget shields, they have Power Absorbers; don't shoot them, you'll just make them angry plus give them more power to shoot back. And your transporters are sooooo cute, beaming six whole people at once! Yeah, well, the Andros can beam entire ships, like the one that just materialized directly behind you. It's frightening to imagine what other technology they have, isn't it?</summary>
+<summary>Click here for my Andromedan-specific proposals</summary>
+  
+If you've played SFB enough to explore the empires beyond the Feds, Klingons and Romulans, then you know about the **Andromedans**. They break _**all**_ the rules. Forget shields, they have Power Absorbers; don't shoot them, you'll just make them angry _plus_ give them more power to shoot back. And your transporters are sooooo cute, beaming six whole people at once! Yeah, well, the Andros can beam **entire ships**, like the one that just materialized directly behind you. It's frightening to imagine what other technology they have, isn't it?
 
 ## SFB-Rule-AndromedanGravityMine-By-DavidBank.pdf
 What is that thing the Andros just beamed out, and why is it not releasing energy?
@@ -27,10 +29,12 @@ This rule proposal introduces an alternate mode of operation for tractor beams. 
 
 ## Skids
 <details>
-<summary>Skids were introduced in Module R8 as enhancements to Cargo pods carried by freighters (and tugs).</summary>
+<summary>Click here to see my proposals for Skids</summary>
+  
+Skids were introduced in **Module R8** as enhancements to pods carried by freighters (and tugs). They won't turn a Large Freighter into a dreadnought, but they can help defend it, or even make the crew some (legal) cash on the side.
 
 ### SFB-Rule-MedicalSkid-By-DavidBank.pdf
-New colonies rarely had a lot of doctors, and needed frequent stops by independent freighters. This skid enables a freighter to provide medical services and not merely haul cargo. Just trust what the medical computer says, and don't ask any of the crew to provide their medical credentials.
+New colonies rarely had a lot of doctors, and needed frequent stops by independent freighters. This skid enables a freighter to provide medical services and not merely haul cargo. Just trust what the medical computer says, and don't ask to see the crew's medical license.
 
 ### SFB-Rule-PointDefenseSkid-By-DavidBank.pdf
 For freighter captains, calling the cops wasn't always an option. This skid adds defensive capability to help a ship fend off attacks.
