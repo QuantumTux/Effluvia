@@ -27,6 +27,12 @@ My idea of a different way to deal with plasma torpedoes. Yes, it's an "area of 
 ## SFB-Rule-LowPowerTractor-By-DavidBank.pdf
 This rule proposal introduces an alternate mode of operation for tractor beams. It allows a beam with a maximum range of 1 to grab and hold objects smaller than Size Class 5, and to do so for half the normal power cost. It's an option mainly aimed at power-starved ships, and is akin to Low-Powered Fire Control (less of a power drain for less functionality).
 
+## SFB-Rule-MilitaryGroundLogisticsBase-By-DavidBank.pdf
+A proposal for something that would really only come into play for a campaign, or perhaps as a target/something to defend in a scenario. I got the idea from news articles about Ukrainian drones going after Russian Wildberries warehouses.
+
+## SFB-Rule-RepairShuttle-By-DavidBank.pdf
+An extension of the existing Salvage Shuttle (SVS), this is another proposal that's mainly aimed at campaigns.
+
 ## Skids
 <details>
 <summary>Click here to see my proposals for Skids</summary>
@@ -39,13 +45,19 @@ New colonies rarely had a lot of doctors, and needed frequent stops by independe
 ### SFB-Rule-PointDefenseSkid-By-DavidBank.pdf
 For freighter captains, calling the cops wasn't always an option. This skid adds defensive capability to help a ship fend off attacks.
 
+### SFB-Rule-PriorityDeliverySkid-By-DavidBank.pdf
+Long-time SFB players will remember the **Federation Express** delivery ships. But even the USPS doesn't deliver _all_ the US Mail; some of that gets hired out.
+
 ### SFB-Rule-RepairSkid-By-DavidBank.pdf
 Frontier planets and less-developed colony worlds often needed to repair ships that could not land on the planet. A Repair Skid let a freighter captain bring services to these places.
+
+### SFB-Rule-SpecialityCargoSkid-By-DavidBank.pdf
+Your average cargo container can't handle **Tholian Gem Flowers**. What is the enterprising freighter captain to do?
 
 </details>
 
 ## SFB-Rule-SwallowRounds-By-DavidBank.pdf
-Another idea I had for a system to counter swarms of warp-seeking (Type VI) drones. Again, I think it strikes a good balance between possible effects and limiting factors. The name, _Swallow_, is actually lifted from the _BattleStar Galactica_ miniseries.
+An idea I had for a system to counter swarms of warp-seeking (Type VI) drones. Again, I think it strikes a good balance between possible effects and limiting factors. The name, _Swallow_, is actually lifted from the _BattleStar Galactica_ miniseries.
 
 # Scenarios
 The scenarios are **not** "official" ADB-approved scenarios.
